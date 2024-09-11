@@ -10,6 +10,6 @@ docker run -it \
 	--gpus=all \
 	-v ${PWD}:/workspace \
 	-p 8888:8888 \
-        --name nim_copilot \
-	nim_copilot \
+        --name hack_eage_hpc_2024 \
+	hack_eage_hpc_2024 \
 	/bin/bash

@@ -8,4 +8,4 @@ docker build \
 --build-arg MYUID=$THIS_UID \
 --build-arg MYGID=$THIS_GID \
 --build-arg MYUSER=$THIS_USER \
--t nim_copilot -f dockerfiles/Dockerfile .
+-t hack_eage_hpc_2024 .
