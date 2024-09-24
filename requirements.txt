@@ -1,4 +1,5 @@
-timm==0.3.2
 scikit-learn
 matplotlib
 tensorboard
+torch==1.13.1
+timm==0.4.12
